@@ -1,0 +1,12 @@
+body {
+    margin-bottom: 1000px;
+}
+
+#btn-container {
+    padding: 30px;
+    background-color: #333334;
+}
+
+button {
+    margin: 10px;
+}

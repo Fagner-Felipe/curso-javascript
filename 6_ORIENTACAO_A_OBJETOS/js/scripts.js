@@ -10,7 +10,7 @@ animal.latir();
 
 // 2 - aprofundando em métodos
 const pessoa = {
-  nome: "Matheus",
+  nome: "Fagner",
 
   getNome: function () {
     return this.nome;
@@ -25,7 +25,7 @@ console.log(pessoa.nome);
 
 console.log(pessoa.getNome());
 
-pessoa.setNome("Matheus Battisti");
+pessoa.setNome("Fagner felipe");
 
 console.log(pessoa.getNome());
 
